@@ -1,0 +1,52 @@
+body {
+	background-color: #47210D;
+}
+
+#container {
+	margin: 0px auto;
+	background-color: #EDBD44;
+	width: 845px;
+}
+
+#header {
+	border: 1px black solid;
+	height: 115px;
+}
+
+#header img {
+	float: left;
+	width: 200px;
+}
+
+#header #address,#telephone {
+	color: #DA1412;
+	text-align: right;
+	font-weight: 900;
+}
+
+#topmenu ul {
+	width: 800px;
+	margin: 20px auto 0 auto;
+}
+
+#topmenu li {
+	color: #fff;
+	font-weight: 700;
+	background-color: #999530;
+	display: inline;
+
+	padding: 25px 5px 5px 5px;
+
+}
+
+section {
+	text-align: center;
+	margin: 40px 20px 20px 20px;
+	padding: 30px 15px;
+}
+
+section aside {
+	width: 100px;
+	float: right;
+}
+
